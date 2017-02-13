@@ -15,6 +15,10 @@
           <dict>
               <key>NSAllowsArbitraryLoads</key>
 			  <false/>
+			  <key>NSAllowsArbitraryLoadsForMedia</key>
+			  <false/>
+			  <key>NSAllowsArbitraryLoadsInWebContent</key>
+			  <false/>
 			  <key>NSAllowsLocalNetworking</key>
 			  <true/>
           </dict>
